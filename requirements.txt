@@ -7,4 +7,3 @@ plotly
 altair
 matplotlib
 seaborn
-pickle5
