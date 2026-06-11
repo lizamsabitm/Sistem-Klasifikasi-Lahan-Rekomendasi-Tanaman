@@ -102,7 +102,7 @@ UAS_DataMining_106_Lizam/
 pip install -r requirements.txt
 ```
 3. Jalankan aplikasi Streamlit:
-``'`bash 
+```bash 
 streamlit run app/Home.py
 ```
 4. Buka browser dan akses `http://localhost:8501`
