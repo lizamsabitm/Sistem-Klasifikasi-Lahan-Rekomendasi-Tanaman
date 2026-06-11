@@ -1,4 +1,4 @@
-# Sistem Cerdas Rekomendasi Komoditas Pertanian Berbasis AI
+# Sistem Klasifikasi Lahan & Rekomendasi Tanaman
 
 Aplikasi web interaktif berbasis Streamlit yang mengintegrasikan metode Machine Learning untuk melakukan zonasi karakteristik lahan pertanian (K-Means Clustering) sekaligus memberikan rekomendasi tanaman lokal yang paling optimal (XGBoost Classifier). Proyek ini disusun untuk memenuhi Tugas Akhir / UAS mata kuliah Data Mining.
 
@@ -106,7 +106,7 @@ pip install -r requirements.txt
 streamlit run app/app.py
 ```
 4. Buka browser dan akses `http://localhost:8501`
-
+5. Atau bisa langsung akses di https://sistem-klasifikasi-lahan-dan-rekomendasi-tanaman.streamlit.app
 ---
 
 ## Requirements
@@ -123,7 +123,7 @@ matplotlib
 seaborn
 pickle5
 ```
-
+Catatan: Untuk Deploy Menggunakan Platform Streamlit (https://streamlit.io/), modul pickle5 tidak perlu dimasukkan ke requirements.txt
 ---
 
 ## Lisensi
