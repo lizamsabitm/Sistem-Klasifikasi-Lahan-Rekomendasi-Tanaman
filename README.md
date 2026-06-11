@@ -95,7 +95,7 @@ UAS_DataMining_106_Lizam/
 ---
 
 ## Cara Menjalankan Aplikasi
-
+SECARA LOKAL
 1. Clone atau download repository ini
 2. Install semua dependensi:
 ```bash
@@ -106,7 +106,8 @@ pip install -r requirements.txt
 streamlit run app/Home.py
 ```
 4. Buka browser dan akses `http://localhost:8501`
-5. Atau bisa langsung akses di https://sistem-klasifikasi-lahan-dan-rekomendasi-tanaman.streamlit.app
+   
+Atau bisa langsung akses di https://sistem-klasifikasi-lahan-dan-rekomendasi-tanaman.streamlit.app
 ---
 
 ## Requirements
