@@ -123,7 +123,9 @@ matplotlib
 seaborn
 pickle5
 ```
-Catatan: Untuk Deploy Menggunakan Platform Streamlit (https://streamlit.io/), modul pickle5 tidak perlu dimasukkan ke requirements.txt
+Catatan:
+1. Jika Ingin Menjalankan Aplikasi Ini Secara Lokal Dengan Repository Ini, Tambahkan Modul pickle5 Terlebih Dahulu Di File requirements.txt Atau Copy(Salin) Isi File requirements.txt Secara Lengkap Diatas
+2. Untuk Deploy Menggunakan Platform Streamlit (https://streamlit.io/), modul pickle5 tidak perlu dimasukkan ke requirements.txt
 ---
 
 ## Lisensi
