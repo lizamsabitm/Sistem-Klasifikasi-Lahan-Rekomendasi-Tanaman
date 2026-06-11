@@ -102,8 +102,8 @@ UAS_DataMining_106_Lizam/
 pip install -r requirements.txt
 ```
 3. Jalankan aplikasi Streamlit:
-```bash
-streamlit run app/app.py
+``'`bash 
+streamlit run app/Home.py
 ```
 4. Buka browser dan akses `http://localhost:8501`
 5. Atau bisa langsung akses di https://sistem-klasifikasi-lahan-dan-rekomendasi-tanaman.streamlit.app
