@@ -98,6 +98,7 @@ UAS_DataMining_106_Lizam/
 - SECARA LOKAL
 1. Clone atau download repository ini
 2. Install semua dependensi:
+   Catatan: Jika Ingin Menjalankan Aplikasi Ini Secara Lokal Dengan Repository Ini, Tambahkan Modul pickle5 Terlebih Dahulu Di File requirements.txt Atau Copy(Salin) Isi File requirements.txt Secara Lengkap Dibawah
 ```bash
 pip install -r requirements.txt
 ```
