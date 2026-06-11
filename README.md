@@ -95,7 +95,7 @@ UAS_DataMining_106_Lizam/
 ---
 
 ## Cara Menjalankan Aplikasi
-SECARA LOKAL
+- SECARA LOKAL
 1. Clone atau download repository ini
 2. Install semua dependensi:
 ```bash
