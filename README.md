@@ -139,7 +139,7 @@ User Input (7 sensor parameters)
 ## Getting Started
 
 **Option 1 — Access the live app directly:**
-👉 [https://sistem-klasifikasi-lahan-dan-rekomendasi-tanaman.streamlit.app](https://sistem-klasifikasi-lahan-dan-rekomendasi-tanaman.streamlit.app)
+[https://sistem-klasifikasi-lahan-dan-rekomendasi-tanaman.streamlit.app](https://sistem-klasifikasi-lahan-dan-rekomendasi-tanaman.streamlit.app)
 
 **Option 2 — Run locally:**
 
